@@ -4,3 +4,5 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("init");
 // cat1
 Console.WriteLine("cat1");
+// cat2
+Console.WriteLine("cat2");
